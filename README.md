@@ -1,7 +1,7 @@
 # Hi, I'm Iván Fernández
 
 ## About Me
-I am a Software Quality and QA Automation professional with experience in software testing, backend development, databases, and cloud fundamentals. I enjoy building practical projects with Python, Java, Selenium, Playwright, Django, SQL, and MongoDB while continuing to grow in AWS and software architecture.
+I am a Software Quality and QA Automation student with strong fundations in software testing, backend development, databases, and cloud fundamentals. I enjoy building practical projects with Python, Java, Selenium, Playwright, Django, SQL, and MongoDB while continuing to grow in AWS and software architecture.
 
 ## Tech Stack
 
