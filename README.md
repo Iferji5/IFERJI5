@@ -48,9 +48,6 @@ I am a Software Quality and QA Automation student with strong fundations in soft
 - **Django CRUD Application**  
   Web application focused on backend logic, ORM usage, and database integration.
 
-- **Java Swing MVC Application**  
-  Desktop app applying object-oriented programming and MVC architecture.
-
 - **SQL & Database Practice Projects**  
   Query and database design exercises with joins, subqueries, grouping, and reporting.
 
